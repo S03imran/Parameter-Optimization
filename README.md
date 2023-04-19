@@ -7,7 +7,7 @@ Choose any multi-class dataset. Divide the dataset into 70-30 for training and t
 The data used contains 14 columns and 10,000 rows. It is a synthetic dataset that reflects real predictive maintenance data encountered in industry. Out of 14 columns, the following 7 columns are used:
 
 Type
-###-> Air temperature
+### -> Air temperature
 -> Process Tempature
 -> Rotational Speed
 -> Torque
