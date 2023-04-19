@@ -28,3 +28,11 @@ The above hyperparameters are randomly selected from the given values for 100 it
 # Convergence Graph is given below
 
 ![Capture](https://user-images.githubusercontent.com/84433199/233135580-952eb743-b5b4-4a01-8c8b-4ec593c0f7ef.JPG)
+
+# Result
+The best parameters of SVC for the given dataset are:->
+-> Kernel : r->bf
+-> C : 7
+-> Gamma : scale
+-> Degree : NA
+The above parameter gave a maximum accuracy of 0.983667.
