@@ -26,3 +26,5 @@ The above hyperparameters are randomly selected from the given values for 100 it
 ![Capture](https://user-images.githubusercontent.com/84433199/233135079-b3c22873-209b-4a22-a7be-bb28e67404a8.JPG)
 
 # Convergence Graph is given below
+
+![Capture](https://user-images.githubusercontent.com/84433199/233135580-952eb743-b5b4-4a01-8c8b-4ec593c0f7ef.JPG)
