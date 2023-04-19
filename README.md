@@ -31,7 +31,7 @@ The above hyperparameters are randomly selected from the given values for 100 it
 
 # Result
 The best parameters of SVC for the given dataset are
-##### -> Kernel : r->bf
+##### -> Kernel : rbf
 ##### -> C : 7
 ##### -> Gamma : scale
 ##### -> Degree : NA
