@@ -16,7 +16,7 @@ cvgs_data = []
 all_samples = []
 
 
-data = pd.read_csv('./ai4i2020.csv')
+data = pd.read_csv('./dataset.csv')
 df = data.iloc[:,2:9]
 
 # encoding type values
