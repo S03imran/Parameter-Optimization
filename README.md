@@ -22,3 +22,6 @@ The dataset is split into training and testing set for 10 times and the followin
 -> Degree - Random integer from 1 to 5. It is only used by poly kernel and represent the degree of polynomial kernel function.
 
 The above hyperparameters are randomly selected from the given values for 100 iterations. The parameters that gave the best accuracy for each sample are shown in table below:
+
+![Capture](https://user-images.githubusercontent.com/84433199/233135079-b3c22873-209b-4a22-a7be-bb28e67404a8.JPG)
+
