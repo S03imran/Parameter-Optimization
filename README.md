@@ -1,7 +1,7 @@
 # Parameter Optimization of SVM
 
 # ASSIGNMENT
-Choose any multi-class dataset. Divide the dataset into 70-30 for training and testing with 10 dufferent samples. Optimize the SVM for every sample and report the best parameters.
+Choose any multi-class dataset. Divide the dataset into 70-30 for training and testing with 10 different samples. Optimize the SVM for every sample and report the best parameters.
 
 # Dataset
 The data used contains 14 columns and 10,000 rows. It is a synthetic dataset that reflects real predictive maintenance data encountered in industry. Out of 14 columns, the following 7 columns are used:
